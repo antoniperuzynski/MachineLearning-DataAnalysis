@@ -18,8 +18,9 @@ Branches each for project part 1:
   6. Lab1.6 - Interpretable AI - Lime.
   
 Branches each for project part 2:
+ 1. Lab2.1 - TransferLearning - Xception
+ 2. Lab2.2 - Autoencoders
   
-  
- Some projects (part 2) were based on code from class instructor: [https://github.com/PrzemekSekula/DeepLearningClasses1/tree/master/TransferLearning](https://github.com/PrzemekSekula/DeepLearningClasses1/tree/master/TransferLearning).
+ Some projects (part 2) were based on code from class instructor: [https://github.com/PrzemekSekula/DeepLearningClasses1/tree/master](https://github.com/PrzemekSekula/DeepLearningClasses1/tree/master).
      
 Comments in a code and variables can be written in Polish Language.
