@@ -6,10 +6,10 @@ This repository consists of projects from course <i> Machine Learning-Data Analy
 Class instructor: <i> dr Bogna Zacny, dr inż. Przemysław Sekuła</i>.
 
 This course was divided on two parts. 
-  1. First part was led by <i> dr Bogna Zacny </i> - branches 1.*
-  2. Second part was led by <i> dr inż. Przemysław Sekuła </i> - branches 2.*.
+  1. First part was led by <i> dr Bogna Zacny </i> - labs 1.*
+  2. Second part was led by <i> dr inż. Przemysław Sekuła </i> - labs 2.*.
 
-Branches each for project part 1: 
+Labs part 1: 
   1. Lab1.1 - Standardization.
   2. Lab1.2 - Inertion and Silhouette.
   3. Lab1.3 - Clustering methods.
@@ -17,7 +17,7 @@ Branches each for project part 1:
   5. Lab1.5 - Dimensionality-reduction method - PCA.
   6. Lab1.6 - Interpretable AI - Lime.
   
-Branches each for project part 2:
+Labs part 2:
  1. Lab2.1 - TransferLearning - Xception
  2. Lab2.2 - Autoencoders
   
